@@ -12,7 +12,16 @@ The BCHDevs group exists to return the Bitcoin Cash cryptocurrency to Satoshi's 
 
 * Roger Ver
 * Rick Falkvinge
+* Steve Sokolowski
 * Anyone in the Bitcoin Unlimited group
+
+(more honorary founders to come...)
+
+# Roadmap
+
+1. Gain "wallet consensus" on a modified cashaddr spec that reverts back to base58
+1. Remove replay protection
+1. Promote the usage of alternate names for currecy that trades using the symbol 'BTC': "Bitcoin Legacy", "Bitcoin Core", "BCore", etc.
 
 # Rules of Membership
 
