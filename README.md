@@ -13,6 +13,7 @@ The BCHDevs group exists to return the Bitcoin Cash cryptocurrency to Satoshi's 
 * Roger Ver
 * Rick Falkvinge
 * Steve Sokolowski
+* Mike Hearn, Gavin Andressen, & Jeff Garzik
 * Anyone in the Bitcoin Unlimited group
 
 (more honorary founders to come...)
